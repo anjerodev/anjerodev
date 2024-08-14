@@ -2,9 +2,9 @@
 
 I'm Antonio, **Full Stack Javascript Developer**.
 
-🚀 From Bridges to Bits: Once a Civil Engineer, now a Web Developer. Master in Renewable Energies, crafter of code. Traded blueprints for JavaScript, structures for React.
+🚀 From Bridges to Bits: Once a Civil Engineer, now a Web Developer. Traded blueprints for JavaScript, structures for React.
 
-🌐 Team Ups: Open to collaboration! Be it shaping the frontend landscape or mastering the backend mysteries, I'm game to explore every facet.
+🌐 Team Ups: Open to collaboration! Whether it’s shaping the frontend or tackling backend challenges, I’m enthusiastic to explore all aspects.
 
 ⭐ My joy: Neat, easy-to-use interfaces and making complicated ideas simple and smooth.
 
